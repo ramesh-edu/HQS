@@ -1,0 +1,145 @@
+QSID,QNATIONAL_SCORE,QCOMPARE_TO_NATIONAL,QMEASUREID
+338,0,Not Available,HAI_2_NUMERATOR
+339,0,Better than the National Benchmark,HAI_3_SIR
+340,1.001,Worse than the National Benchmark,HAI_5_CILOWER
+205,.01,No Different than National Benchmark,HAI_3_CILOWER
+206,1.001,No Different than National Benchmark,HAI_2_ELIGCASES
+207,0,No Different than National Benchmark,HAI_5_NUMERATOR
+208,1.404,Worse than the National Benchmark,HAI_2_SIR
+209,0,Better than the National Benchmark,HAI_3_NUMERATOR
+210,10,Worse than the National Benchmark,HAI_4_NUMERATOR
+211,1,Not Available,HAI_1_DOPC
+212,,Not Available,HAI_3_CIUPPER
+213,1.001,No Different than National Benchmark,HAI_4_ELIGCASES
+214,0,Not Available,HAI_6_NUMERATOR
+215,0,Not Available,HAI_6_ELIGCASES
+216,1.002,No Different than National Benchmark,HAI_1_CIUPPER
+217,1.125,Worse than the National Benchmark,HAI_1_ELIGCASES
+218,0,Not Available,HAI_1_ELIGCASES
+219,0,Not Available,HAI_1_NUMERATOR
+220,,Not Available,HAI_3_CILOWER
+221,1.503,Worse than the National Benchmark,HAI_3_SIR
+222,1.011,Worse than the National Benchmark,HAI_2_ELIGCASES
+223,1.157,Worse than the National Benchmark,HAI_6_ELIGCASES
+224,1.053,Worse than the National Benchmark,HAI_5_ELIGCASES
+225,1.374,Worse than the National Benchmark,HAI_1_SIR
+226,.005,Better than the National Benchmark,HAI_5_CILOWER
+227,0,Better than the National Benchmark,HAI_1_NUMERATOR
+228,0,Not Available,HAI_5_ELIGCASES
+229,,Not Available,HAI_6_CILOWER
+230,,Not Available,HAI_2_SIR
+231,1.001,No Different than National Benchmark,HAI_5_CIUPPER
+232,0,Not Available,HAI_5_NUMERATOR
+233,,Not Available,HAI_1_SIR
+234,0,No Different than National Benchmark,HAI_4_NUMERATOR
+235,0,No Different than National Benchmark,HAI_6_SIR
+236,1.062,Worse than the National Benchmark,HAI_4_ELIGCASES
+237,10,Worse than the National Benchmark,HAI_3_NUMERATOR
+238,106178,Worse than the National Benchmark,HAI_6_DOPC
+239,1.734,Worse than the National Benchmark,HAI_1_CIUPPER
+240,,Not Available,HAI_4_CILOWER
+241,0,Better than the National Benchmark,HAI_1_SIR
+242,0,Not Available,HAI_4_NUMERATOR
+243,1.011,No Different than National Benchmark,HAI_3_CIUPPER
+244,,Not Available,HAI_5_CILOWER
+245,102358,Worse than the National Benchmark,HAI_5_DOPC
+246,,Not Available,HAI_1_CIUPPER
+247,.01,No Different than National Benchmark,HAI_1_CILOWER
+248,0,Better than the National Benchmark,HAI_6_NUMERATOR
+249,10.112,Better than the National Benchmark,HAI_3_ELIGCASES
+250,.418,Better than the National Benchmark,HAI_3_CIUPPER
+251,10.065,Better than the National Benchmark,HAI_1_ELIGCASES
+252,1.005,Worse than the National Benchmark,HAI_1_CILOWER
+253,.01,Better than the National Benchmark,HAI_4_CILOWER
+254,.21,Better than the National Benchmark,HAI_1_CIUPPER
+255,105,No Different than National Benchmark,HAI_4_DOPC
+256,.36,Better than the National Benchmark,HAI_5_CIUPPER
+257,.004,Better than the National Benchmark,HAI_2_CILOWER
+258,10,Worse than the National Benchmark,HAI_1_NUMERATOR
+259,1.804,Worse than the National Benchmark,HAI_5_CIUPPER
+260,100,Worse than the National Benchmark,HAI_3_DOPC
+261,1015,Better than the National Benchmark,HAI_4_DOPC
+262,10.197,Better than the National Benchmark,HAI_6_ELIGCASES
+263,1,No Different than National Benchmark,HAI_6_ELIGCASES
+264,0,Not Available,HAI_6_DOPC
+265,0,No Different than National Benchmark,HAI_4_SIR
+266,1.003,No Different than National Benchmark,HAI_5_ELIGCASES
+267,1.225,Worse than the National Benchmark,HAI_6_SIR
+268,.01,No Different than National Benchmark,HAI_4_CILOWER
+269,0,No Different than National Benchmark,HAI_3_SIR
+270,0,No Different than National Benchmark,HAI_2_NUMERATOR
+271,1,No Different than National Benchmark,HAI_2_CIUPPER
+272,0,No Different than National Benchmark,HAI_2_SIR
+273,0,Better than the National Benchmark,HAI_6_SIR
+274,.069,Better than the National Benchmark,HAI_6_CIUPPER
+275,0,Not Available,HAI_5_DOPC
+276,10.006,Better than the National Benchmark,HAI_5_ELIGCASES
+277,0,Better than the National Benchmark,HAI_5_NUMERATOR
+278,1.025,Worse than the National Benchmark,HAI_4_CILOWER
+279,1.772,Worse than the National Benchmark,HAI_4_SIR
+280,0,Better than the National Benchmark,HAI_4_NUMERATOR
+281,1,No Different than National Benchmark,HAI_1_ELIGCASES
+282,0,No Different than National Benchmark,HAI_5_SIR
+283,,Not Available,HAI_5_SIR
+284,.01,No Different than National Benchmark,HAI_5_CILOWER
+285,10050,Worse than the National Benchmark,HAI_2_DOPC
+286,2.05,Worse than the National Benchmark,HAI_3_CIUPPER
+287,110,Better than the National Benchmark,HAI_3_DOPC
+288,0,Not Available,HAI_4_ELIGCASES
+289,1,No Different than National Benchmark,HAI_6_CIUPPER
+290,10016,No Different than National Benchmark,HAI_6_DOPC
+291,1,Not Available,HAI_3_DOPC
+292,0,No Different than National Benchmark,HAI_3_NUMERATOR
+293,1.007,Worse than the National Benchmark,HAI_2_CILOWER
+294,1.075,Worse than the National Benchmark,HAI_3_ELIGCASES
+295,1.001,Worse than the National Benchmark,HAI_6_CILOWER
+296,.495,Better than the National Benchmark,HAI_4_CIUPPER
+297,,Not Available,HAI_4_SIR
+298,100261,Better than the National Benchmark,HAI_6_DOPC
+299,,Not Available,HAI_5_CIUPPER
+300,,Not Available,HAI_3_SIR
+301,0,No Different than National Benchmark,HAI_6_NUMERATOR
+302,.01,No Different than National Benchmark,HAI_2_CILOWER
+303,1.005,Worse than the National Benchmark,HAI_3_CILOWER
+304,10.219,Worse than the National Benchmark,HAI_4_CIUPPER
+305,0,Better than the National Benchmark,HAI_5_SIR
+306,1,Not Available,HAI_4_DOPC
+307,.001,Not Available,HAI_2_ELIGCASES
+308,.001,Better than the National Benchmark,HAI_6_CILOWER
+309,103235,Better than the National Benchmark,HAI_5_DOPC
+310,10,Worse than the National Benchmark,HAI_6_NUMERATOR
+311,1.38,Worse than the National Benchmark,HAI_5_SIR
+312,10234,Worse than the National Benchmark,HAI_1_DOPC
+313,0,Better than the National Benchmark,HAI_4_SIR
+314,,Not Available,HAI_6_SIR
+315,10034,No Different than National Benchmark,HAI_1_DOPC
+316,,Not Available,HAI_1_CILOWER
+317,0,Not Available,HAI_3_ELIGCASES
+318,1,No Different than National Benchmark,HAI_3_ELIGCASES
+319,0,No Different than National Benchmark,HAI_1_SIR
+320,0,Not Available,HAI_3_NUMERATOR
+321,1,No Different than National Benchmark,HAI_4_CIUPPER
+322,10025,Better than the National Benchmark,HAI_2_DOPC
+323,.205,Better than the National Benchmark,HAI_2_CIUPPER
+324,10,Worse than the National Benchmark,HAI_2_NUMERATOR
+325,10.983,Better than the National Benchmark,HAI_4_ELIGCASES
+326,,Not Available,HAI_6_CIUPPER
+327,100184,No Different than National Benchmark,HAI_5_DOPC
+328,10,Worse than the National Benchmark,HAI_5_NUMERATOR
+329,1.409,Worse than the National Benchmark,HAI_6_CIUPPER
+330,10020,Better than the National Benchmark,HAI_1_DOPC
+331,0,No Different than National Benchmark,HAI_1_NUMERATOR
+332,10.016,Better than the National Benchmark,HAI_2_ELIGCASES
+333,1.893,Worse than the National Benchmark,HAI_2_CIUPPER
+334,113,Worse than the National Benchmark,HAI_4_DOPC
+335,,Not Available,HAI_2_CILOWER
+336,1,Not Available,HAI_2_DOPC
+337,,Not Available,HAI_2_CIUPPER
+341,100,No Different than National Benchmark,HAI_3_DOPC
+342,.01,No Different than National Benchmark,HAI_6_CILOWER
+343,,Not Available,HAI_4_CIUPPER
+344,10004,No Different than National Benchmark,HAI_2_DOPC
+345,.003,Better than the National Benchmark,HAI_1_CILOWER
+346,0,Better than the National Benchmark,HAI_2_SIR
+347,0,Better than the National Benchmark,HAI_2_NUMERATOR
+348,.005,Better than the National Benchmark,HAI_3_CILOWER
