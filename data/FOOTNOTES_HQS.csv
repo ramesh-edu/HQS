@@ -1,29 +1,30 @@
-"FNID","F_TEXT","FDATE","FMODIFIED"
-"1","Number of cases has reduced","07/01/2010",""
-"2","Data submitted were based on a sample of cases/patients.","07/01/2015",""
-"3","Results are based on a shorter time period than required.","07/01/2015",""
-"4","Data suppressed by CMS for one or more quarters.","07/01/2015",""
-"5","Results are not available for this reporting period.","07/01/2015",""
-"6","No cases met the criteria for this measure.","07/01/2015",""
-"7","The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.","07/01/2015",""
-"8","No data are available from the state/territory for this reporting period.","07/01/2010",""
-"9","There were discrepancies in the data collection process.","07/01/2015",""
-"10","This measure does not apply to this hospital for this reporting period.","01/01/2018",""
-"11","Results cannot be calculated for this reporting period.","01/01/2016",""
-"12","The results for this state are combined with nearby states to protect confidentiality.","01/01/2018",""
-"13","The number of cases/patients is too few to report a star rating.","07/01/2017",""
-"14","There are too few measures or measure groups reported to calculate a star rating or measure group score.","07/01/2017",""
-"15","This result is not based on performance data; the hospital did not submit data and did not submit an HAI exemption form.","07/01/2017",""
-"16","Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs.","07/01/2017",""
-"17","State and national averages do not include VHA hospital data.","01/01/2018",""
-"18","Patient survey results for VHA hospitals do not represent official HCAHPS results and are not included in state and national averages.","04/01/2018",""
-"19","Star ratings are not calculated for VHA hospitals.","04/01/2018",""
-"20","The data are based on claims that the hospital or facility submitted to CMS. The hospital or facility has reported discrepancies in their claims data.","04/01/2018",""
-"21","Results for this Veterans Health Administration (VHA) hospital are combined with those from the VHA administrative parent hospital that manages all points of service.","01/01/2018",""
-"22","State and National Averages include Veterans Health Administration (VHA) hospital data.","04/01/2018",""
-"23","State and national averages include Department of Defense (DoD) hospital data.","01/01/2018",""
-"24","Patient survey results for Department of Defense (DoD) hospitals do not represent official HCAHPS results and are not included in state and national averages.","01/01/2018",""
-"25","Maryland hospitals are waived from receiving payment adjustments under the Program.","01/01/2018",""
-"26","This value was calculated using data reported by the hospital in compliance with the requirements outlined for this program and does not take into account information that became available at a later date.","01/01/2018","04/10/2020"
-"201","New improved services","06/06/2020","04/10/2020"
-"603","Testing","04/10/2020","04/10/2020"
+FNID,F_TEXT,FDATE,FMODIFIED
+1,Number of cases has reduce,2010-07-01T00:00:00,2020-04-12T00:00:00
+2,Data submitted were based on a sample of cases/patients.,2015-07-01T00:00:00,
+3,Results are based on a shorter time period than required.,2015-07-01T00:00:00,
+4,Data suppressed by CMS for one or more quarters.,2015-07-01T00:00:00,
+5,Results are not available for this reporting period.,2015-07-01T00:00:00,
+6,No cases met the criteria for this measure.,2015-07-01T00:00:00,
+7,The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,2015-07-01T00:00:00,
+8,No data are available from the state/territory for this reporting period.,2010-07-01T00:00:00,
+9,There were discrepancies in the data collection process.,2015-07-01T00:00:00,
+10,This measure does not apply to this hospital for this reporting period.,2018-01-01T00:00:00,
+11,Results cannot be calculated for this reporting period.,2016-01-01T00:00:00,
+12,The results for this state are combined with nearby states to protect confidentiality.,2018-01-01T00:00:00,
+13,The number of cases/patients is too few to report a star rating.,2017-07-01T00:00:00,
+14,There are too few measures or measure groups reported to calculate a star rating or measure group score.,2017-07-01T00:00:00,
+15,This result is not based on performance data; the hospital did not submit data and did not submit an HAI exemption form.,2017-07-01T00:00:00,
+17,State and national averages do not include VHA hospital data.,2018-01-01T00:00:00,
+18,Patient survey results for VHA hospitals do not represent official HCAHPS results and are not included in state and national averages.,2018-04-01T00:00:00,
+19,Star ratings are not calculated for VHA hospitals.,2018-04-01T00:00:00,
+20,The data are based on claims that the hospital or facility submitted to CMS. The hospital or facility has reported discrepancies in their claims data.,2018-04-01T00:00:00,
+21,Results for this Veterans Health Administration (VHA) hospital are combined with those from the VHA administrative parent hospital that manages all points of service.,2018-01-01T00:00:00,
+22,State and National Averages include Veterans Health Administration (VHA) hospital data.,2018-04-01T00:00:00,
+23,State and national averages include Department of Defense (DoD) hospital data.,2018-01-01T00:00:00,
+24,Patient survey results for Department of Defense (DoD) hospitals do not represent official HCAHPS results and are not included in state and national averages.,2018-01-01T00:00:00,
+25,Maryland hospitals are waived from receiving payment adjustments under the Program of CDC,2018-01-01T00:00:00,2020-04-12T00:00:00
+26,This value was calculated using data reported by the hospital in compliance with the requirements outlined for this program and does not take into account information that became available at a later date.,2018-01-01T00:00:00,2020-04-10T00:00:00
+701,testing,2020-04-12T00:00:00,2020-04-12T00:00:00
+801,Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR),2020-04-12T00:00:00,2020-04-12T00:00:00
+201,New improved services,2020-06-06T00:00:00,2020-04-10T00:00:00
+603,Testing,2020-04-10T00:00:00,2020-04-10T00:00:00
