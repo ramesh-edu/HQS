@@ -1,0 +1,34 @@
+{
+  "name" : "Googles Places Autocomplete",
+  "version" : "1.1.0",
+  "description" : "Address autcomplete for Page Items and Interactive Grid",
+  "keywords" : ["address", "autocomplete", "interactive grid", "google", "maps", "places", "google maps api"],
+  "homepage" : "https://github.com/insum-labs/apex-plugin-google-places-autocomplete",
+  "bugs" : {
+    "url" : "https://github.com/insum-labs/apex-plugin-google-places-autocomplete/issues",
+    "email" : "nfernandez@insum.ca"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Neil Fernandez",
+    "email" : "nfernandez@insum.ca",
+    "url" : "",
+    "twitter" : "neilbfernandez"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/insum-labs/apex-plugin-google-places-autocomplete.git"
+  },
+ "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1", "12.2.0.1", "18.1"],
+    "apex" : {
+      "versions" : ["5.1.0","18.1.0", "18.2.0"],
+      "plugin" : {
+        "internalName" : "COM.INSUM.GOOGLEPLACEAUTOCOMPLETE",
+        "type" : "item",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=136441",
+        "previewImage" : "https://user-images.githubusercontent.com/9313239/30703165-ec1a9c4a-9ebc-11e7-8d65-cb29a7d1e166.gif"
+      }
+    }
+  }
+}
